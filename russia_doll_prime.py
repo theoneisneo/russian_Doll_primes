@@ -13,7 +13,7 @@ def isPrime(n):
     return True
 
 rdp = [2, 3, 5, 7]
-add = [1, 3, 5, 7, 9]
+add = [1, 3, 7, 9]
 
 for p in rdp:
     for a in add:
